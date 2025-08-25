@@ -3,7 +3,8 @@
 
 using namespace std;
 
-string solution(int num) {
+string solution(int num) 
+{
     string answer = "";
     double i = num %= 2;
     if(i == 0)
