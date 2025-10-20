@@ -1,6 +1,6 @@
 # [level 1] 숫자 문자열과 영단어 - 81301 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/81301?gad_source=1&gad_campaignid=22799790467&gbraid=0AAAAAC_c4nCAoF4VVleaLUuHHZaAGgRpn&gclid=CjwKCAjwu9fHBhAWEiwAzGRC_8LkO8t350CgfAZexFMiPdl5zSvIXp3aR7_lcBfcCog4d3FShjx6FxoCnzoQAvD_BwE) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/81301) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 20일 17:45:00
+2025년 10월 20일 17:45:21
 
 ### 문제 설명
 
